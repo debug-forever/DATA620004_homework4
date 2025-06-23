@@ -1,7 +1,7 @@
-这是DATA620004期末作业的工程仓库，其中
-	1.TensoRF为任务1工程
-	2.gaussian-splatting为任务2工程
-	3.script为获取样本、转换格式与渲染视频的脚本
+这是DATA620004期末作业的工程仓库，其中:
+	1.TensoRF为任务1工程;
+	2.gaussian-splatting为任务2工程;
+	3.script为获取样本、转换格式与渲染视频的脚本;
 	4.数据及生成的模型权重可通过以下链接下载：
 	链接: https://pan.baidu.com/s/1ZgBX0AvwsvH-7SZLlTDniA?pwd=jjir 提取码: jjir
 
