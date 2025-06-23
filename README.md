@@ -6,6 +6,7 @@
 	链接: https://pan.baidu.com/s/1ZgBX0AvwsvH-7SZLlTDniA?pwd=jjir 提取码: jjir
 
 运行方式：
+
 	TensoRF
 	1.进入TensoRF目录，将网盘data\0621_2放到data文件夹中
 	2.通过 Python train.py –-config config/yang_f.py 开启训练，可通过配置文件指定具体参数
